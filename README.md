@@ -1,6 +1,8 @@
-# Nuxt Minimal Starter
+# Todos
+simple project with nuxt for show todo and add new todo change status from pending to completed and delete some one
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Picture from Project
+![alt text](https://github.com/AmirhosseinAbutalebi/TodoWithNuxt/blob/main/todoNuxt.png)
 
 ## Setup
 
